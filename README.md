@@ -74,4 +74,6 @@ We Filtered the DataFrame for each city we wanted to go to and created separate 
 Used the directions Layer instructions from the gmaps documentation
 Use the list indexing and Pandas methods to get the latitude-longitude pairs for each city DataFrame as tuples.
 
+<img width="874" alt="Screen Shot 2021-01-21 at 12 07 20 PM" src="https://user-images.githubusercontent.com/60243906/105418514-595d7b80-5be1-11eb-9944-e986c9e8742b.png">
 
+<img width="876" alt="Screen Shot 2021-01-21 at 12 07 13 PM" src="https://user-images.githubusercontent.com/60243906/105418523-5e222f80-5be1-11eb-8e06-4cba2892263c.png">
