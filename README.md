@@ -38,3 +38,27 @@ Retrieved the following information from the API call:
 - Using a try-except block, if it is raining, get the amount of rainfall in inches for the last three hours. If it is not raining, add 0 inches for the city.
 - Using a try-except block, if it is snowing, get the amount of snow in inches for the last three hours. If it is not snowing, add 0 inches for the city. Added the data to a new DataFrame.
 - Our new DataFrame looks similar to the following image:
+
+<img width="1077" alt="table1" src="https://user-images.githubusercontent.com/60243906/105417696-1353e800-5be0-11eb-95dc-3ccff26f1762.png">
+
+### Part 2
+
+Have Customers Narrow Their Travel Searches Based on Temperature and Precipitation
+We imported the WeatherPy_vacation.csv file from Part 1 as a new DataFrame. Filter the DataFrame for minimum and maximum temperature preferences, and if the rain or snow accumulation is 0 inches or not using conditional statements. Doing the following:
+
+- Prompt the customer for the minimum temperature preference.
+- Prompt the customer for the maximum temperature preference.
+- Prompt the customer to answer if he or she would like it to be raining or not, using input("Do you want it to be raining? (yes/no) ").
+- Prompt the customer to answer if he or she would like it to be snowing or not, using input("Do you want it to be snowing? (yes/no) ").
+- Our new hotel DataFrame looks similar to the following image:
+
+<img width="819" alt="Screen Shot 2021-01-21 at 12 00 20 PM" src="https://user-images.githubusercontent.com/60243906/105417864-501fdf00-5be0-11eb-8e81-4a8f75cf39e4.png">
+
+From the filtered DataFrame we added the cities to a marker layer map with a pop-up marker for each city that includes:
+
+- Hotel name
+- City
+- Country
+- Current weather description with the maximum temperature
+
+
