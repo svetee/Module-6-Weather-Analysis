@@ -61,4 +61,4 @@ From the filtered DataFrame we added the cities to a marker layer map with a pop
 - Country
 - Current weather description with the maximum temperature
 
-
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/60243906/105417994-85c4c800-5be0-11eb-9cba-bce13b51ba81.png)
